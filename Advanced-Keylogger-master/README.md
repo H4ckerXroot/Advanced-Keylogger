@@ -7,13 +7,12 @@
 > If these terms are not acceptable to you, then do not use this tool.
 
 ## Prereqs
-This program runs on Windows 10 and Debian-based Linux, written in Python 3.8 and updated to version 3.10.6
+This program runs on Windows 10 and Debian-based Linux, written in Python 3.8 and updated to version 3.11.1
 
 ## Purpose
 As a network and info-sec enthusiast the purpose of this project was originally to make a keylogger.<br>
 I decided to see what else can be incorporated and the project evolved into more of the functionality of spyware.<br>
 Despite such functionality, the program does not attempt persistence or modify the registry, so it can be run outside of sandboxes.<br>
-Tutorial can be found at https://cybr.com/ethical-hacking-archives/how-i-made-a-python-keylogger-that-sends-emails/
 
 ## How it works
 - Creates a directory to temporarily store information to exfiltrate
