@@ -1,6 +1,4 @@
 # Advanced Keylogger
-!
-!
 
 ## Notice
 > This tool may be used for legal purposes only.<br>
