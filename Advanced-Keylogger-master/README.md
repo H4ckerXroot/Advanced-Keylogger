@@ -2,10 +2,6 @@
 !
 !
 
-&#9745;&#65039; Bandit verified<br>
-&#9745;&#65039; Synk verified<br>
-&#9745;&#65039; Pylint verified 9.89/10
-
 ## Notice
 > This tool may be used for legal purposes only.<br>
 > Users take full responsibility for any actions performed using this tool.<br> 
