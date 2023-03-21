@@ -1,6 +1,6 @@
 # Advanced Keylogger
-![alt text](https://github.com/ngimb64/Advanced-Keylogger/blob/master/Advanced_Keylogger.png?raw=true)
-![alt text](https://github.com/ngimb64/Advanced-Keylogger/blob/master/AdvancedKeylogger.png?raw=true)
+!
+!
 
 &#9745;&#65039; Bandit verified<br>
 &#9745;&#65039; Synk verified<br>
